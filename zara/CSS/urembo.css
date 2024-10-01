@@ -1,0 +1,21 @@
+td,th{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+    font-family: sans-serif;
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+}
+body{
+    background-image:url("../images/DSC_6142.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
